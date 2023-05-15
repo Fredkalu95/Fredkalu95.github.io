@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Fred Kalumba. As a Full Stack web developer, I have a diverse skill set that allows me to build complex web applications from start to finish. I have expertise in both front-end and back-end development, which means I can create user interfaces that are intuitive and engaging, as well as implement the necessary server-side functionalities to ensure optimal performance. In terms of front-end development, I have experience with HTML, CSS, JavaScript, and popular frameworks such as React JS, React Native, Material CSS and Material UI. I can create responsive and mobile-friendly designs that are optimized for different devices and screen sizes. I also have experience with cross-browser compatibility and accessibility standards, ensuring that the websites I build are accessible to all users. On the back-end, I'm proficient in server-side programming languages such as Node.js. I have experience with popular frameworks such as Express, which enable me to build robust and scalable web applications. I can work with different types of databases, including MySQL, MongoDB, and PostgreSQL, and I have experience with RESTful APIs and other web services. In addition to my technical skills, I am also adept at project management and collaboration. I have experience working in Agile environments and using tools such as Asana and Slack to manage tasks and communicate with team members. I am comfortable working in both team and solo settings and am committed to delivering high-quality work on time and within budget. Overall, as a full stack web developer, I am well-positioned to tackle any web development project and am excited to leverage my skills to create innovative and impactful web applications. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Photography",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React & React Native"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Black Professionals In Tech Network",
+        "title": "Full Stack Web Developer",
+        "years": "08.2022 - present",
+        "mainTech": [
+          "React JS & Material UI"
+        ],
+        "technologies": [
+          "REST API",
+          "React JS",
+          "JavaScript",
+          "Material UI",
+          "React Native"
+        ]
+      },
+      {
+        "company": "Fiverr & Upwork Freelancer",
+        "title": "Web Developer",
+        "years": "01.2018 - 08.2022",
+        "mainTech": [
+          "React JS"
+        ],
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "React Native",
+          "Node JS",
+          "MySQL"
+        ]
+      }
+    ]
+  }

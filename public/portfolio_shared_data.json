@@ -1,0 +1,88 @@
+{
+    "basic_info": {
+      "name": "Fred Kalumba",
+      "titles": [ "Full-Stack Web Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Fredkalu95",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/fredkalumba/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/fred-kalumba-41b948154/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "whatsapp",
+          "url": "https://wa.me/260963484102",
+          "class": "fab fa-whatsapp"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "React Native",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
