@@ -54,6 +54,11 @@
           "level": "80"
         },
         {
+          "name": "Express JS",
+          "class": "devicon-expressjs-plain",
+          "level": "80"
+        },
+        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
           "level": "90"
@@ -74,6 +79,11 @@
           "level": "85"
         },
         {
+          "name": "Material UI",
+          "class": "devicon-materialui-plain",
+          "level": "85"
+        },
+        {
           "name": "C#",
           "class": "devicon-csharp-plain",
           "level": "65"
@@ -81,6 +91,11 @@
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgres-plain",
           "level": "60"
         }
       ]

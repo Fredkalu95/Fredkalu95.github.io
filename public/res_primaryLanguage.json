@@ -31,6 +31,28 @@
         ]
       },
       {
+        "title": "Todo",
+        "startDate": "2022",
+        "description": "Simple mobile responsive full stack todo list using React-Typescript, Node JS (Express JS) and Postgresql",
+        "images": [
+          "images/portfolio/todo-list/Screenshot 2023-07-16 at 12.47.03 AM.png",
+          "images/portfolio/todo-list/Screenshot 2023-07-16 at 12.47.17 AM.png",
+          "images/portfolio/todo-list/Screenshot 2023-07-16 at 12.47.51 AM.png",
+          "images/portfolio/todo-list/Screenshot 2023-07-16 at 12.49.31 AM.png"
+        ],
+        "url": "pern-todo-steel.vercel.app",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React & React Native"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Material UI"
+          }
+        ]
+      },
+      {
         "title": "FredrolBola",
         "startDate": "2022",
         "description": "This is a soccer website showing live games, league tables and fixtures.",
