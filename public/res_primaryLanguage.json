@@ -40,7 +40,7 @@
           "images/portfolio/todo-list/Screenshot 2023-07-16 at 12.47.51 AM.png",
           "images/portfolio/todo-list/Screenshot 2023-07-16 at 12.49.31 AM.png"
         ],
-        "url": "pern-todo-steel.vercel.app",
+        "url": "https://pern-todo-steel.vercel.app",
         "technologies": [
           {
             "class": "devicon-react-original",

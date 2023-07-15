@@ -55,7 +55,7 @@
         },
         {
           "name": "Express JS",
-          "class": "devicon-expressjs-plain",
+          "class": "devicon-express-original colored",
           "level": "80"
         },
         {
@@ -95,7 +95,7 @@
         },
         {
           "name": "Postgres",
-          "class": "devicon-postgres-plain",
+          "class": "devicon-postgresql-plain colored",
           "level": "60"
         }
       ]
