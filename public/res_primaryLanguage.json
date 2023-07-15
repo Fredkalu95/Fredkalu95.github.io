@@ -44,11 +44,15 @@
         "technologies": [
           {
             "class": "devicon-react-original",
-            "name": "React & React Native"
+            "name": "React"
           },
           {
-            "class": "devicon-materialui-plain",
-            "name": "Material UI"
+            "class": "devicon-typescript-plain colored",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain colored",
+            "name": "Bootstrap 5"
           }
         ]
       },
