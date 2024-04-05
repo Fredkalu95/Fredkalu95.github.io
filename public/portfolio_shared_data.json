@@ -69,6 +69,16 @@
           "level": "70"
         },
         {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "75"
+        },
+        {
+          "name": "Laravel Framework",
+          "class": "devicon-laravel-original",
+          "level": "75"
+        },
+        {
           "name": "Sass",
           "class": "devicon-sass-original",
           "level": "75"
@@ -101,6 +111,11 @@
         {
           "name": "Postgres",
           "class": "devicon-postgresql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "PowerBi",
+          "class": "devicon-couchbase-original",
           "level": "60"
         }
       ]
